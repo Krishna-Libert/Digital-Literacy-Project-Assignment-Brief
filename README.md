@@ -43,8 +43,6 @@ Key Skills: Password security, identifying fraudulent URLs, and safe digital tra
 
 🔗 Project Links
 
-💠Digital Portfolio: [Link to your Portfolio]
-
 💠Presentation Slides: (https://prezi.com/view/0zLgjqjtJwEfLdynzlw7/?referral_token=TGb_bglnB3FN)
 
-💠Additional Resources: [Link to any other docs]
+💠Google Form: (https://docs.google.com/forms/d/e/1FAIpQLSds7ETLtAOvzxlsJhxuVy9wWHAtclqJfkTsOpZaAo3gUNsJRA/viewform?usp=publish-editor)
