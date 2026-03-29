@@ -1,0 +1,64 @@
+# Personal Cyber-Safety Checklist
+
+##### 1.UPI Rule #1: Receiving ≠ PIN
+
+###### Never enter your UPI PIN or scan a QR code to receive money. If someone tells you that you need to enter your PIN to get a refund or a prize, it is 100% a scam.
+
+
+
+##### 2.Verify the 'Banking Name'
+
+###### Before tapping 'Pay' on any UPI app, always check the name that appears on the confirmation screen. Scammers often use fake posters with different names than the official merchant.
+
+##### 
+
+##### 3.The "Hostel Wi-Fi" Precaution
+
+###### Campus and hostel Wi-Fi are convenient but often unsecured. Avoid logging into bank accounts or sensitive portals (like your student ERP) on public Wi-Fi unless you are using a trusted VPN (Virtual Private Network).
+
+##### 
+
+##### 4.Internship \& Job 'Pay-to-Work' Scams
+
+###### As you look for internships, remember: No legitimate company (like those you’d find through the Quantum Intelligence Club or official portals) will ever ask for a "security deposit," "laptop fee," or "registration charge." If they ask for money, walk away.
+
+##### 
+
+##### 5.Secure Your 'App Ecosystem'
+
+###### Only download apps (including UPI or study tools) from the Google Play Store or Apple App Store. Avoid "Modded APKs" for games or software, as these often contain hidden keyloggers that steal your passwords.
+
+##### 
+
+##### 6.Double-Lock Your Socials
+
+###### Enable Two-Factor Authentication (2FA) on your Gmail, LinkedIn, and Instagram. Use an authenticator app rather than just SMS, as "SIM Swapping" is a common tactic used to bypass text-based security.
+
+##### 
+
+##### 7.Watch the 'Digital Breadcrumbs'
+
+###### Avoid sharing "live" locations on stories or photos of your college ID/boarding passes. These contain barcodes and QR codes that hackers can scan to access your personal registration details.
+
+##### 
+
+##### 8.Physical Device Security
+
+###### In places like the Central Library or common rooms, never leave your laptop or phone unattended. Even 30 seconds is enough for someone to plug in a malicious USB drive or "Rubber Ducky" that can compromise your entire system.
+
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+#### How to Report a Cybercrime
+
+###### If you suspect you've been scammed or your data has been compromised, act within the "Golden Hour" (the first 2 hours) to increase the chances of freezing stolen funds.
+
+###### •	Helpline: Call 1930 immediately (available 24/7 across India).
+
+###### •	Official Portal: File a formal complaint at cybercrime.gov.in.
+
+###### •	Bank Contact: Immediately notify your bank's fraud department to block your cards or UPI ID.
+
+
+
